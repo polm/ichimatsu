@@ -1,0 +1,25 @@
+{
+  "name": "ichimatsu",
+  "version": "1.0.0",
+  "description": "Turn list elements into checkboxes and remember them.",
+  "main": "lib/ichimatsu.js",
+  "scripts": {
+    "test": "false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/polm/ichimatsu.git"
+  },
+  "keywords": [
+    "checklist",
+    "checkbox",
+    "githubflavoredmarkdown",
+    "markdown"
+  ],
+  "author": "23",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/polm/ichimatsu/issues"
+  },
+  "homepage": "https://github.com/polm/ichimatsu#readme"
+}
